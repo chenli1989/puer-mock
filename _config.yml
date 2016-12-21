@@ -1,0 +1,8 @@
+title: puer-mock
+description: Puer + Mock.js = A configurable mock server with configurable mock(random) data.
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
